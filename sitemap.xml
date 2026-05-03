@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://jrminton.com/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://jrminton.com/jr-minton.jpg</image:loc>
+      <image:title>J.R. Minton</image:title>
+      <image:caption>Portrait of J.R. Minton — husband, father, creator.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://jrminton.com/minton-family.jpg</image:loc>
+      <image:title>The Minton Family</image:title>
+      <image:caption>J.R. Minton with his wife and children.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://jrminton.com/pairtone-project.png</image:loc>
+      <image:title>The Pairtone Project</image:title>
+      <image:caption>The Pairtone Project podcast logo.</image:caption>
+    </image:image>
+  </url>
+</urlset>
